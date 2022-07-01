@@ -1,0 +1,116 @@
+.box{
+    width: 500px;
+    margin: auto;
+    border-radius: 10px;
+    height: 200px;
+    background-color: rgb(223, 223, 223);
+    margin-top: 100px;
+    padding: 20px;
+    padding-top: 10px;
+    
+}
+
+.start{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border: 1px solid black;
+    width: 60px;
+    height: 25px;
+    border-radius: 2px;
+    margin-right: 10px;
+    cursor: pointer;
+
+}
+.reset{
+    background-color: rgb(103, 103, 250);
+        border: 1px solid rgb(0, 0, 0);
+        color: white;
+        width:60px;
+        height: 25px;
+        border-radius: 2px;
+        margin-right: 10px;
+        cursor: pointer;
+    
+}
+.btn{
+    margin-top: 10px;
+    text-align: left;
+}
+.num{
+    padding-bottom: 20px;
+   height: 100px;
+   
+   
+}
+.wtxt{
+    margin-left: 10px;
+cursor: pointer;
+display: flex;
+height: 40px;
+width: fit-content;
+
+
+}
+
+.line{
+    background-color: rgb(12, 9, 9);
+    font-size: 100px; 
+    margin-top: 3px;
+    margin-bottom: 5px;
+}
+.line2{
+    background-color: rgb(12, 9, 9);
+    font-size: 100px; 
+    margin-top: 6px;
+    margin-bottom: 5px;
+}
+.hr{
+    margin-right: -5px;
+    font-size: 80px;
+}
+.mn{
+font-size: 60px;
+}
+.ss{
+    font-size: 40px;
+}
+.ms{
+    font-size: 20px;
+}
+
+.changer{
+    
+    display: flex;
+    justify-content: space-evenly;
+}
+.changer>div{
+    cursor: pointer;
+    width: 49%;
+    height: 30px;
+    
+
+}
+
+
+.ipbox{
+   
+    display: flex;
+    width: 90%;
+
+}
+
+.clddr{
+    font-size: 30px;
+    margin-top: 15%;
+    color: #718096;
+    margin-left: 2px;
+}
+
+.ipbox>input{
+    text-align: center;
+    font-size: 80px;
+  
+    height: 100px;
+}
+
+
